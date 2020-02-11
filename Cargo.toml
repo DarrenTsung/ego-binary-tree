@@ -3,6 +3,8 @@ name = "ego-binary-tree"
 version = "0.1.0"
 authors = ["Darren Tsung <darren.tsung@gmail.com>"]
 edition = "2018"
+description = "Binary tree API built by wrapping ego-tree."
+license = "MIT"
 
 [dependencies]
 ego-tree = "0.6"
